@@ -3,7 +3,7 @@
 💻 Currently working on: **Flexurio Nocode**  
 🌱 Learning more about: **Golang, Rust, Docker, and Arch Linux**  
 ⚡ Fun fact: I use ThinkPad + Arch Linux 🐧  
-📫 Reach me at: [Email](mailto:emailkamu@gmail.com) | [LinkedIn](https://linkedin.com/in/username)
+📫 Reach me at: [Email](mailto:mohamadardiansyahpratama90@gmail.com) | [LinkedIn](https://linkedin.com/in/mohamad-ardiansyah-pratama)
 
 ---
 
@@ -28,13 +28,8 @@
 
 ---
 
-### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=apsyahfz&theme=onedark&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 🚀 Featured Project
-🔹 [**Flexurio Nocode**](https://github.com/apsyahfz/flexurio-nocode) – Build software visually with Rust, Go, and JS integration.
+🔹 [**Flexurio Nocode**](https://github.com/flexurio/flexurio-nocode) – Build software visually with Rust, Go, and JS integration.
 
 ---
 
